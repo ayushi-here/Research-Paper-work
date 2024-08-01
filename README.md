@@ -1,4 +1,4 @@
-# 📚Research Paper:Predicting Student Dropout Rates🎓
+# 📚Predicting Student Dropout Rates🎓
 
 ## Overview
 This research delves into predicting student dropout rates using various supervised machine learning models. The aim is to identify which models offer the best performance for early intervention strategies in education.
